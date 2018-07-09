@@ -148,5 +148,39 @@ Proceed ([y]/n)? y
 
 
 Downloading and Extracting Packages
-qt-5.9.5             | 104.8 MB | ########################################################################7                         |  75%
+qt-5.9.5             | 104.8 MB | ################################################################################################# | 100%
+mkl-2018.0.2         | 176.6 MB | ################################################################################################# | 100%
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: - DEBUG menuinst_win32:__init__(199): Menu: name: 'Anaconda${PY_VER} ${PLATFORM}', prefix: 'D:\ProgramData\Anaconda3'
+, env_name: 'None', mode: 'None', used_mode: 'system'
+DEBUG menuinst_win32:create(323): Shortcut cmd is D:\ProgramData\Anaconda3\pythonw.exe, args are ['D:\\ProgramData\\Anaconda3\\cwp.py', 'D:\
+\ProgramData\\Anaconda3', 'D:\\ProgramData\\Anaconda3\\pythonw.exe', 'D:\\ProgramData\\Anaconda3\\Scripts\\spyder-script.py']
+DEBUG menuinst_win32:create(323): Shortcut cmd is D:\ProgramData\Anaconda3\python.exe, args are ['D:\\ProgramData\\Anaconda3\\cwp.py', 'D:\\
+ProgramData\\Anaconda3', 'D:\\ProgramData\\Anaconda3\\python.exe', 'D:\\ProgramData\\Anaconda3\\Scripts\\spyder-script.py', '--reset']
+/ DEBUG menuinst_win32:__init__(199): Menu: name: 'Anaconda${PY_VER} ${PLATFORM}', prefix: 'D:\ProgramData\Anaconda3', env_name: 'None', mod
+e: 'None', used_mode: 'system'
+DEBUG menuinst_win32:create(323): Shortcut cmd is D:\ProgramData\Anaconda3\python.exe, args are ['D:\\ProgramData\\Anaconda3\\cwp.py', 'D:\\
+ProgramData\\Anaconda3', 'D:\\ProgramData\\Anaconda3\\python.exe', 'D:\\ProgramData\\Anaconda3\\Scripts\\jupyter-notebook-script.py', '%USER
+PROFILE%']
+- DEBUG menuinst_win32:__init__(199): Menu: name: 'Anaconda${PY_VER} ${PLATFORM}', prefix: 'D:\ProgramData\Anaconda3', env_name: 'None', mod
+e: 'None', used_mode: 'system'
+DEBUG menuinst_win32:create(323): Shortcut cmd is D:\ProgramData\Anaconda3\python.exe, args are ['D:\\ProgramData\\Anaconda3\\cwp.py', 'D:\\
+ProgramData\\Anaconda3', 'D:\\ProgramData\\Anaconda3\\python.exe', 'D:\\ProgramData\\Anaconda3\\Scripts\\jupyter-notebook-script.py', '%USER
+PROFILE%']
+- DEBUG menuinst_win32:__init__(199): Menu: name: 'Anaconda${PY_VER} ${PLATFORM}', prefix: 'D:\ProgramData\Anaconda3', env_name: 'None', mod
+e: 'None', used_mode: 'system'
+DEBUG menuinst_win32:create(323): Shortcut cmd is D:\ProgramData\Anaconda3\pythonw.exe, args are ['D:\\ProgramData\\Anaconda3\\cwp.py', 'D:\
+\ProgramData\\Anaconda3', 'D:\\ProgramData\\Anaconda3\\pythonw.exe', 'D:\\ProgramData\\Anaconda3\\Scripts\\spyder-script.py']
+\ DEBUG menuinst_win32:create(323): Shortcut cmd is D:\ProgramData\Anaconda3\python.exe, args are ['D:\\ProgramData\\Anaconda3\\cwp.py', 'D:
+\\ProgramData\\Anaconda3', 'D:\\ProgramData\\Anaconda3\\python.exe', 'D:\\ProgramData\\Anaconda3\\Scripts\\spyder-script.py', '--reset']
+done
+
+(base) C:\Users\KEI>conda update --prefix D:\ProgramData\Anaconda3 anaconda
+Solving environment: done
+
+# All requested packages already installed.
+
+
+(base) C:\Users\KEI>
 ~~~
