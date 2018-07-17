@@ -20,6 +20,6 @@
   8) 다운로드 완료^^  
   ![다운로드 끝](./imgs/goodgood_anaconda.png)  
   
-### 아나콘다 다운로드
+### [아나콘다 설치](./02_Install_Anaconda.md)
 
-### 아나콘다 설치
+### [주피터 노트북 실행](./03_Jupyter_Notebook.md)
