@@ -1,5 +1,7 @@
 ## 파이썬 설치하기  
   
+### [아나콘다 다운로드](./01_Download_Anaconda.md)  
+  
 ### 아나콘다 설치하기  
   
   1) 보통 다운로드 폴더에 설치파일이 받아집니다.  
@@ -23,3 +25,4 @@
   ![설치](./imgs/install11.png)  
   ![설치](./imgs/install12.png)  
   
+### [주피터 노트북 실행](./03_Jupyter_Notebook.md)
