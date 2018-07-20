@@ -26,3 +26,5 @@
   실제로 해보자!!!  
   
 ### 
+
+[Python 데이터 수집과 분석](http://edu2.kosta.or.kr/enroll?courseId=261&year=2018&orderNumber=3)(한국소프트웨어진흥협회, 무료)(8/20-8/21, )
