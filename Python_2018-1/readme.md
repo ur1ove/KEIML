@@ -35,13 +35,14 @@
   노트북을 가지고 4시까지 11층 대회의실로 오시면 됩니다.  
   
   [파이콘 한국 2018(8/15, 17, 18, 19)](https://www.pycon.kr/2018/) : ~~정말 설레는 행사입니다.~~  
-  자동화 - [파이썬으로 네트워크 장비 테스트 자동화 하기(8/18)](https://www.pycon.kr/2018/program/7)  
-  자동화 - [인생을 짧아요, 엑셀 대신 파이썬(8/18)](https://www.pycon.kr/2018/program/29)  
-  NLP - [Topic Modeling & Word Embedding 그리고 화장품(8/19)](https://www.pycon.kr/2018/program/5)  
-  NLP(?) - [법률 네트워크 분석: 30년간의 변화](https://www.pycon.kr/2018/program/21)  
-  보건 - [Understanging of Medical Physics modeling and anlaysis with python including extension to general case.](https://www.pycon.kr/2018/program/52)  
-  보건 - [머신러닝으로 치매 정복하기](https://www.pycon.kr/2018/program/36)  
-  자동화 - [땀내를 줄이는 Feature Engineering](https://www.pycon.kr/2018/program/47)  
+  [파이썬으로 네트워크 장비 테스트 자동화 하기(8/18)](https://www.pycon.kr/2018/program/7)  
+  [인생을 짧아요, 엑셀 대신 파이썬(8/18)](https://www.pycon.kr/2018/program/29)  
+  [Topic Modeling & Word Embedding 그리고 화장품(8/19)](https://www.pycon.kr/2018/program/5)  
+  [법률 네트워크 분석: 30년간의 변화](https://www.pycon.kr/2018/program/21)  
+  [Understanging of Medical Physics modeling and anlaysis with python including extension to general case.](https://www.pycon.kr/2018/program/52)  
+  [머신러닝으로 치매 정복하기](https://www.pycon.kr/2018/program/36)  
+  [땀내를 줄이는 Feature Engineering](https://www.pycon.kr/2018/program/47)  
+  [Pandas 시계열 데이터 분석(8/17)](https://www.pycon.kr/2018/program/tutorial/10)  
   ...... ~~사실 제 입장에서는 모든 것이 자동화(Automation)로 연결됩니다.~~  
 ### 5차. 파이썬 문법(4/?, 8/14) : 코드 맛보기  
   
