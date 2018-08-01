@@ -43,8 +43,10 @@
   [머신러닝으로 치매 정복하기](https://www.pycon.kr/2018/program/36)  
   [땀내를 줄이는 Feature Engineering](https://www.pycon.kr/2018/program/47)  
   [Pandas 시계열 데이터 분석(8/17)](https://www.pycon.kr/2018/program/tutorial/10)  
-  [청와대 국민청원 데이터로 파이썬 자연어처리 입문하기(8/17](https://www.pycon.kr/2018/program/tutorial/7)  
-  ...... ~~사실 제 입장에서는 모든 것이 자동화(Automation)로 연결됩니다.~~  
+  [공공데이터로 파이썬 데이터 분석 입문하기(8/17 10:00-14:00)](https://www.pycon.kr/2018/program/tutorial/6)  
+  [청와대 국민청원 데이터로 파이썬 자연어처리 입문하기(8/17 14:00-18:00](https://www.pycon.kr/2018/program/tutorial/7)  
+  [드론 및 인공위성 영상을 이용한 태양광발전소 입지분석(8/18 16:15-16:40)](https://www.pycon.kr/2018/program/6)  
+  ...... [어젠더](https://www.pycon.kr/2018/program/list/) ~~사실 제 입장에서는 모든 것이 자동화(Automation)로 연결됩니다.~~  
 ### 5차. 파이썬 문법(4/?, 8/14) : 코드 맛보기  
   
   
