@@ -7,6 +7,8 @@
 - tfGPU로 사용자 환경을 바꾼다.(라이브러리가 하나도 없다.)  
 - 텐서플로우 라이브러리(GPU용)를 설치한다.  
 - 주피터 노트북을 설치한다. ...(이후는 알아서^^)  
+  
+- 사용자 환경을 새로 구성한다.  
 ~~~
 (base) >conda create -n tfGPU
 Solving environment: done
