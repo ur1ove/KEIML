@@ -382,3 +382,52 @@ Preparing transaction: done
 Verifying transaction: done
 Executing transaction: done
 ~~~
+- 추가 라이브러리를 설치합니다.  
+~~~
+(tfGPU) >conda install matplotlib pillow
+Solving environment: done
+
+## Package Plan ##
+
+  environment location: D:\ProgramData\Anaconda3\envs\tfGPU
+
+  added / updated specs:
+    - matplotlib
+    - pillow
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    pyparsing-2.2.0            |           py36_1          96 KB
+    twisted-17.5.0             |           py36_0         4.4 MB
+    ------------------------------------------------------------
+                                           Total:         4.5 MB
+
+The following NEW packages will be INSTALLED:
+
+    cycler:     0.10.0-py36h009560c_0
+    freetype:   2.8-h51f8f2c_1
+    kiwisolver: 1.0.1-py36h12c3424_0
+    libtiff:    4.0.9-hb8ad9f9_1
+    matplotlib: 2.2.2-py36h153e9ff_1
+    olefile:    0.45.1-py36_0
+    pillow:     5.1.0-py36h0738816_0
+    pyparsing:  2.2.0-py36_1
+    tk:         8.6.7-hcb92d03_3
+
+The following packages will be DOWNGRADED:
+
+    twisted:    18.4.0-py36hfa6e2cd_0 --> 17.5.0-py36_0
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages
+pyparsing-2.2.0      |   96 KB | ################################################################################################## | 100%
+twisted-17.5.0       |  4.4 MB | ################################################################################################## | 100%
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: done
+~~~
