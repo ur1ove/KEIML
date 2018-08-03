@@ -1,4 +1,5 @@
 ### CUDA 및 cuDNN 설치
+- 쿠다 툴킷만 설치하면 cuDNN은 아나콘다가 처리해주는 것 같음.  
   
   
 ### TensorFlow GPU 설치
