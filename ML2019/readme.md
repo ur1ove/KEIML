@@ -9,5 +9,5 @@
 - http://hellogohn.com/post_one38  
   
 ### TensorFlow 기초  
-선행학습 : 파이썬을 모르시면, 참여가 어렵습니다.  
+선행학습 요구 : 파이썬을 모르시면, 참여가 어렵습니다.  
 - [골빈해커의 3분 딥러닝, 텐서플로맛](https://github.com/golbin/TensorFlow-Tutorials)
