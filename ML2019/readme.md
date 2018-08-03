@@ -5,5 +5,6 @@
 - 아나콘다(Anaconda) 설치  
 - [Anaconda Tensorflow GPU 버전 설치](https://junn.in/archives/2466)  
 [CUDA Toolkit 9.0](https://developer.nvidia.com/cuda-90-download-archive?target_os=Windows&target_arch=x86_64&target_version=7&target_type=exelocal) / [cuDNN for CUDA 9.0](https://developer.nvidia.com/rdp/cudnn-download)  
+- https://www.tensorflow.org/guide/using_gpu  
   
-### Anaconda Tensorflow GPU 버전 설치
+### TensorFlow 버전 설치
