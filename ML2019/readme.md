@@ -8,4 +8,5 @@
 - https://www.tensorflow.org/guide/using_gpu  
 - http://hellogohn.com/post_one38  
   
-### TensorFlow 버전 설치
+### TensorFlow 기초  
+- [골빈해커의 3분 딥러닝, 텐서플로맛](https://github.com/golbin/TensorFlow-Tutorials)
