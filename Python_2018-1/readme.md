@@ -34,10 +34,11 @@
   함수와 클래스는 뼈대입니다.  
   이번 워크숍은 진대용 박사님께서 진행해 주십니다.  
   노트북을 가지고 4시까지 11층 대회의실로 오시면 됩니다.  
+  4차 노트북 파일 - [20180808_함수+클래스(진대용)](./20180808_함수+클래스.ipynb), [20180808_함수.ipynb](./20180808_함수.ipynb)  
   
   [파이콘 한국 2018(8/15, 17, 18, 19)](https://www.pycon.kr/2018/) : ~~정말 설레는 행사입니다.~~  
   [파이썬으로 네트워크 장비 테스트 자동화 하기(8/18)](https://www.pycon.kr/2018/program/7)  
-  [인생을 짧아요, 엑셀 대신 파이썬(8/18)](https://www.pycon.kr/2018/program/29)  
+  [인생은 짧아요, 엑셀 대신 파이썬(8/18)](https://www.pycon.kr/2018/program/29)  
   [Topic Modeling & Word Embedding 그리고 화장품(8/19)](https://www.pycon.kr/2018/program/5)  
   [법률 네트워크 분석: 30년간의 변화](https://www.pycon.kr/2018/program/21)  
   [Understanging of Medical Physics modeling and anlaysis with python including extension to general case.](https://www.pycon.kr/2018/program/52)  
