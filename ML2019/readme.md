@@ -12,3 +12,7 @@
 선행학습 요구 : 파이썬을 모르시면, 참여가 어렵습니다.  
 - [골빈해커의 3분 딥러닝, 텐서플로맛](https://github.com/golbin/TensorFlow-Tutorials)
 - [pythonkim.tistory.com](http://pythonkim.tistory.com/8?category=573319)  
+  
+### Pandas 기초
+선행학습 요구 : 파이썬을 처음하셔도 괜찮지만, 문법을 모르시면 참여가 어렵습니다.
+- [팬더스 데이터분석 기초 실습](http://edu.goorm.io/lecture/3999/pandas-%ED%8C%AC%EB%8D%94%EC%8A%A4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EA%B8%B0%EC%B4%88-%EC%8B%A4%EC%8A%B5)  
