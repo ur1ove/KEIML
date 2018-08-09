@@ -19,3 +19,6 @@
   
 ### 데이터 처리
 - [Ultimate guide to handle Big Datasets for Machine Learning using Dask(in Python0](https://www.analyticsvidhya.com/blog/2018/08/dask-big-datasets-machine_learning-python/?utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+  
+### 캐글 스터디
+- [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk)
