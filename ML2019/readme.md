@@ -18,6 +18,7 @@
 - [팬더스 데이터분석 기초 실습](http://edu.goorm.io/lecture/3999/pandas-%ED%8C%AC%EB%8D%94%EC%8A%A4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EA%B8%B0%EC%B4%88-%EC%8B%A4%EC%8A%B5)  
   
 ### 데이터 처리
+- [파이썬으로 데이터 주무르기](https://github.com/PinkWink/DataScience)
 - [Ultimate guide to handle Big Datasets for Machine Learning using Dask(in Python0](https://www.analyticsvidhya.com/blog/2018/08/dask-big-datasets-machine_learning-python/?utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
   
 ### 캐글 스터디
