@@ -15,6 +15,6 @@ misc.md 에 참고할만한 URL을 정리하고자 함
 - (빅데이터, 3월 샌프란시스코, 4월 런던, 9월 뉴욕) [Strata Data Conference](https://conferences.oreilly.com/strata)  
   
 ### 교육
-- [패스트 캠퍼스](https://www.fastcampus.co.kr/) - 우수  
-- [DBGuide.net 빅데이터 아카데미](http://www.dbguide.net/bigacademy.db) - 양호  
-- [한국소프트웨어기술진흥협회](http://edu2.kosta.or.kr/) - 복불복, 강사 확인이 필요함(백명숙, 윤대일, 이기훈 강추!!!)   
+- [패스트 캠퍼스 / 실비](https://www.fastcampus.co.kr/) - 우수  
+- [DBGuide.net 빅데이터 아카데미 / KEI 부담금 or 무료](http://www.dbguide.net/bigacademy.db) - 양호  
+- [한국소프트웨어기술진흥협회 / 무료](http://edu2.kosta.or.kr/) - 복불복, 강사 확인이 필요함(백명숙, 윤대일, 이기훈 강추!!!)   
