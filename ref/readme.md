@@ -10,6 +10,7 @@ misc.md 에 참고할만한 URL을 정리하고자 함
 - [OKBQA 해커톤 / 튜토리얼 / 워크숍(8월초, KAIST)](http://7.okbqa.org/home/korean)  
 
 ### 학회
-- (딥러닝, 12월경) [NIPS](https://nips.cc/)  
-- (머신러닝, 6월경) [ICML](https://icml.cc/)  
-- (데이터 마이닝, 8월경) [KDD](http://www.kdd.org/)
+- (머신러닝, 6월) [ICML](https://icml.cc/)  
+- (데이터 마이닝, 8월) [KDD](http://www.kdd.org/)
+- (딥러닝, 12월) [NIPS](https://nips.cc/)  
+- (빅데이터, 3월 샌프란시스코, 4월 런던, 9월 뉴욕) [Strata Data Conference](https://conferences.oreilly.com/strata)
