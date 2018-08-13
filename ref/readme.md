@@ -8,3 +8,8 @@ misc.md 에 참고할만한 URL을 정리하고자 함
  
 ### 주요행사
 - [OKBQA 해커톤 / 튜토리얼 / 워크숍(8월초, KAIST)](http://7.okbqa.org/home/korean)  
+
+### 학회
+- (딥러닝, 12월경) [NIPS](https://nips.cc/)  
+- (머신러닝, 6월경) [ICML](https://icml.cc/)  
+- (데이터 마이닝, 8월경) [KDD](http://www.kdd.org/)
