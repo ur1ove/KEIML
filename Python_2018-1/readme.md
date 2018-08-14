@@ -58,10 +58,10 @@
   
 ## 이후 과정
   자유주제 [해커톤(Hackathon)](https://ko.wikipedia.org/wiki/%ED%95%B4%EC%BB%A4%ED%86%A4)  
-  (<b>수집</b>-저장) [urllib](https://docs.python.org/3.6/library/urllib.html), [pandas](https://pandas.pydata.org/), [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/), [selenium](https://www.seleniumhq.org/)  
-  (분석-<b>처리</b>) numpy, pandas,   
-  (시각화)  
-  (머신러닝)  
+  (<b>수집</b>-저장) [urllib](https://docs.python.org/3.6/library/urllib.html), [pandas](https://pandas.pydata.org/), [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/), [selenium](https://www.seleniumhq.org/),  
+  (분석-<b>처리</b>) numpy, pandas, statsmodels, scipy, gensim,      
+  (시각화) matplotlib, ggplot,    
+  (머신러닝) [scikit-learn](http://scikit-learn.org/stable/),  
   (딥러닝)  
   (강화학습)  
   (......)  
