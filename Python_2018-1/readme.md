@@ -48,6 +48,7 @@
     
 ### 6차. 파이썬 기초(2/2, 8/29) : 코드 읽기
   
+  
 ## 이후 과정
   자유주제 [해커톤(Hackathon)](https://ko.wikipedia.org/wiki/%ED%95%B4%EC%BB%A4%ED%86%A4)  
   (수집-저장)  
