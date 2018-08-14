@@ -48,12 +48,18 @@
     
 ### 6차. 파이썬 기초(2/2, 8/29) : 코드 읽기
   
+### 총평
+  본 과정을 마쳤을 때, 무엇을 할 수 있을까요?  
+  - 파이썬 코드를 읽을 수 있겠다.
+  - 깃허브 등을 통해 파이썬 코드를 받아서 재생해볼 수 있겠다.
+  - 내가 무엇이 필요한지 알겠다.  
+  
   <br />  
   
 ## 이후 과정
   자유주제 [해커톤(Hackathon)](https://ko.wikipedia.org/wiki/%ED%95%B4%EC%BB%A4%ED%86%A4)  
-  (수집-저장)  
-  (분석-처리)  
+  (<b>수집</b>-저장) [urllib](https://docs.python.org/3.6/library/urllib.html), [pandas](https://pandas.pydata.org/), [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/), [selenium](https://www.seleniumhq.org/)  
+  (분석-<b>처리</b>) numpy, pandas,   
   (시각화)  
   (머신러닝)  
   (딥러닝)  
