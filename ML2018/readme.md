@@ -29,7 +29,13 @@
   환경백서 다운로드부터 형태소 추출, 불용어 처리, 빈두 분석, 워드클라우드 생성,
   실제로 해보자!!!  
   
-### 
+### 머신러닝의 이해(8/1)
+  
+### 분석사례 리뷰
+- 텍스트 유사도 분석 [1](http://code-ing.tistory.com/1?category=728528, [2](http://code-ing.tistory.com/2?category=728528), [3](http://code-ing.tistory.com/3?category=728528)  
+-
+-
+
 
 [Python 데이터 수집과 분석](http://edu2.kosta.or.kr/enroll?courseId=261&year=2018&orderNumber=3)(한국소프트웨어진흥협회, 무료)(8/20-8/21, )
 머신러닝 연구회(2차)_20180530.ipynb
