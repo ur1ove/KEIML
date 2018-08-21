@@ -34,7 +34,7 @@
 ### 분석사례 리뷰
 - 텍스트 유사도 분석 [1](http://code-ing.tistory.com/1?category=728528), [2](http://code-ing.tistory.com/2?category=728528), [3](http://code-ing.tistory.com/3?category=728528)  
 - [Scikit-learn의 문서 전처리 기능](https://datascienceschool.net/view-notebook/3e7aadbf88ed4f0d87a76f9ddc925d69/)  
--
+- [TextRank를 이용한 문서요약](http://excelsior-cjh.tistory.com/93)
 
 
 [Python 데이터 수집과 분석](http://edu2.kosta.or.kr/enroll?courseId=261&year=2018&orderNumber=3)(한국소프트웨어진흥협회, 무료)(8/20-8/21, )
