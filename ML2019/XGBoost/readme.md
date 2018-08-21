@@ -1,0 +1,2 @@
+- [XGBoost 사용하기](https://brunch.co.kr/@snobberys/137)  
+- [A Gentls Introduction to XGBoost for Applied Machine Learning](http://gentlej90.tistory.com/87)  
