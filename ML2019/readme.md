@@ -20,9 +20,12 @@
 ### 데이터 처리(별도 워크숍)
 - [파이썬으로 데이터 주무르기](https://github.com/PinkWink/DataScience)
 - [Ultimate guide to handle Big Datasets for Machine Learning using Dask(in Python0](https://www.analyticsvidhya.com/blog/2018/08/dask-big-datasets-machine_learning-python/?utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+- [국민대학교 빅데이터 강의](http://doc.mindscale.kr/km/)
   
 ### 데이터 분석(별도 워크숍)
 - [파이썬으로 머신러닝 배우기 (3/3)](https://www.youtube.com/watch?v=BUmAlJUOmKo&feature=youtu.be)  
   
 ### 캐글 스터디(별도 워크숍)
 - [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk)
+  
+### [KEI 환경 블록체인 연구회]()
