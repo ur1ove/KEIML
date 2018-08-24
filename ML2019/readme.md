@@ -28,4 +28,4 @@
 ### 캐글 스터디(별도 워크숍)
 - [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk)
   
-### [KEI 환경 블록체인 연구회]()
+### [KEI 환경 블록체인 연구회](https://github.com/ur1ove/KEIBC)
