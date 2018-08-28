@@ -11,4 +11,4 @@
 ### Feature Extraction and Summarization with Sequence to Sequence Learning
 ### Deep Learning with Keras
 ### Building Custom Deep Recommendation Engines
-### Deep Learning and Natural Language Processing with Apache MxNet Gluon
+### [Deep Learning and Natural Language Processing with Apache MxNet Gluon](https://kdd18.mxnet.io/)  
