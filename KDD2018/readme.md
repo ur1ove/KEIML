@@ -3,7 +3,7 @@
 - (Hands-On) [Tutorial](https://en.wikipedia.org/wiki/Tutorial),  
 - [Sprint](https://en.wikipedia.org/wiki/Hackathon#Code_sprints),  
 - [Hackerthon](https://en.wikipedia.org/wiki/Hackathon)      
-## Hands-On Tutorials  
+## [Hands-On Tutorials](http://www.kdd.org/kdd2018/hands-on-tutorials)  
 ### Active learning and transfer learning at scale with R and Python
 ### Introduction to Reinforcement Learning with Ray
 ### Beyond Graph Mining Higher-Order Data Analytics for Temporal Network Data
