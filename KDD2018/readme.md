@@ -1,5 +1,5 @@
 # [KDD2018](http://www.kdd.org/kdd2018/)  
-- [Workshop](https://en.wikipedia.org/wiki/Workshop_(disambiguation),   
+- [Workshop](https://en.wikipedia.org/wiki/Workshop_(disambiguation)),   
 - (Hands-On) [Tutorial](https://en.wikipedia.org/wiki/Tutorial),  
 - [Sprint](https://en.wikipedia.org/wiki/Hackathon#Code_sprints),  
 - [Hackerthon](https://en.wikipedia.org/wiki/Hackathon)      
