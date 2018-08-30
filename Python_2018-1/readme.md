@@ -37,7 +37,7 @@
     
   <br />  
   
-## 이후 과정
+## 이후 학습주제
   자유주제 [해커톤(Hackathon)](https://ko.wikipedia.org/wiki/%ED%95%B4%EC%BB%A4%ED%86%A4)  
   (<b>수집</b>-저장) [urllib](https://docs.python.org/3.6/library/urllib.html), [pandas](https://pandas.pydata.org/), [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/), [selenium](https://www.seleniumhq.org/),  
   (분석-<b>처리</b>) numpy, pandas, statsmodels, scipy, gensim,      
@@ -47,3 +47,8 @@
   (강화학습)  
   (전이학습)  
   (...... 데이터 사이언스 & 엔지니어링, 컴퓨터 & 소프트웨어 사이언스 & 엔지니어링)  
+  
+### 참고
+- [시간 다루기](https://python.bakyeono.net/chapter-11-3.html)
+- [파이썬 프로그래밍 입문서(가재)](https://python.bakyeono.net/)
+- 환경 연구를 위한 파이썬 기초(나도 책 써야겠다.)
