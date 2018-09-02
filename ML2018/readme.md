@@ -38,4 +38,5 @@
 
 ### 책 / 교육 소개
 - [처음 배우는 머신러닝, 기초부터 모델링, 실전 예제, 문제 해결까지]()
+- [Launching into Machine Learning, coursera](https://www.coursera.org/learn/launching-machine-learning)
 - [Python 데이터 수집과 분석](http://edu2.kosta.or.kr/enroll?courseId=261&year=2018&orderNumber=3)(한국소프트웨어진흥협회, 무료)(8/20-8/21)
