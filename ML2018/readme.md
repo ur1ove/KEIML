@@ -32,7 +32,7 @@
 ### 머신러닝의 이해(8/1)
   
   
-- [Simplex Complexity, facebook](https://github.com/simplexcomplexity/complexscience)   
+- [Simplex Complexity, github](https://github.com/simplexcomplexity/complexscience) : [facebook](https://www.facebook.com/groups/631032050388643/)   
 
 ### 분석사례 리뷰
 - 텍스트 유사도 분석 [1](http://code-ing.tistory.com/1?category=728528), [2](http://code-ing.tistory.com/2?category=728528), [3](http://code-ing.tistory.com/3?category=728528)  
