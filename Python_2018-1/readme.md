@@ -34,6 +34,7 @@
 ### 6차. 파이썬 기초(2/2, 8/29) : 코드 읽기
   코드 읽기는 정말 중요한 과정입니다.  
   KDD 2018 리뷰 및 6차 노트북 파일 - [미적분 문제풀기](https://github.com/simplexcomplexity/complexscience/blob/master/%ED%8C%8C%EC%9D%B4%EC%BD%98%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/Chapter7.ipynb) 
+  - [Python urllib.request.add_header() Examples](https://www.programcreek.com/python/example/73735/urllib.request.add_header)
     
   <br />  
   
