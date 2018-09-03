@@ -7,4 +7,4 @@
 - [FiLM: Visual Reasoning with a General Conditioning Layer](https://arxiv.org/abs/1709.07871), [Feature-wise transformations](https://distill.pub/2018/feature-wise-transformations/)
 ### Engineer
 - [Writing Distributed Applications with PyTorch](https://pytorch.org/tutorials/intermediate/dist_tuto.html)
-- [Django RESTful Web Services])https://books.google.co.kr/books?id=xNRJDwAAQBAJ&pg=PA112&hl=ko&source=gbs_selected_pages&cad=3#v=onepage&q&f=false)
+- [Django RESTful Web Services](https://books.google.co.kr/books?id=xNRJDwAAQBAJ&pg=PA112&hl=ko&source=gbs_selected_pages&cad=3#v=onepage&q&f=false)
