@@ -42,4 +42,5 @@
 ### 책 / 교육 소개
 - [처음 배우는 머신러닝, 기초부터 모델링, 실전 예제, 문제 해결까지](https://books.google.co.kr/books?id=RQM5DwAAQBAJ&printsec=frontcover&dq=%EC%B2%98%EC%9D%8C+%EB%B0%B0%EC%9A%B0%EB%8A%94+%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D+%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0+%EB%AA%A8%EB%8D%B8%EB%A7%81&hl=ko&sa=X&ved=0ahUKEwjV5bTV2JzdAhUJiLwKHdgjDbcQ6AEIJjAA#v=onepage&q&f=false), [예제](https://github.com/your-first-ml-book/Examples)
 - [Launching into Machine Learning, coursera](https://www.coursera.org/learn/launching-machine-learning)
-- [파이썬 기초 및 응용 / 2018.10.04-05 / 한국소프트웨어진흥협회-](http://edu2.kosta.or.kr/enroll?courseId=312&year=2018&orderNumber=3)
+- [파이썬 기초 및 응용 / 2018.10.04-05 / 한국소프트웨어진흥협회_가산](http://edu2.kosta.or.kr/enroll?courseId=312&year=2018&orderNumber=3)
+- [Python 데이터 수집과 분석 / 2018.09.17-18 / 한국소프트웨어진흥협회_판교_백명숙(강추!!!)](http://edu2.kosta.or.kr/enroll?courseId=261&year=2018&orderNumber=5)
