@@ -163,3 +163,17 @@ and.
 
 (tutorial) C:\Windows\system32>
 ~~~
+~~~
+(tutorial) C:\Windows\system32>python
+Python 3.6.6 |Anaconda, Inc.| (default, Jun 28 2018, 11:27:44) [MSC v.1900 64 bi
+t (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import tensorflow as tf
+>>> print(tf.__version__)
+1.10.0
+>>> quit
+Use quit() or Ctrl-Z plus Return to exit
+>>> quit()
+
+(tutorial) C:\Windows\system32>
+~~~
