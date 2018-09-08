@@ -291,10 +291,9 @@ done
 
 (base) C:\Windows\system32>conda activate tutorial
 
-(tutorial) C:\Windows\system32>pip install tensorflow
+(tutorial) (tutorial) D:\AI>pip install tensorflow
 Collecting tensorflow
-  Downloading https://files.pythonhosted.org/packages/0e/2a/c3fe6035f0a8726e5b210680af3ccaf826f4a64ce7306e57017aba749447/tensorflow-1.10.0-cp36-cp36m-win_amd64.
-whl (37.7MB)
+  Downloading https://files.pythonhosted.org/packages/0e/2a/c3fe6035f0a8726e5b210680af3ccaf826f4a64ce7306e57017aba749447/tensorflow-1.10.0-cp36-cp36m-win_amd64.whl (37.7MB)
     100% |████████████████████████████████| 37.7MB 364kB/s
 Collecting tensorboard<1.11.0,>=1.10.0 (from tensorflow)
   Downloading https://files.pythonhosted.org/packages/c6/17/ecd918a004f297955c30b4fffbea100b1606c225dbf0443264012773c3ff/tensorboard-1.10.0-py3-none-any.whl (3.3MB)
@@ -308,16 +307,13 @@ Collecting absl-py>=0.1.6 (from tensorflow)
   Downloading https://files.pythonhosted.org/packages/a7/86/67f55488ec68982270142c340cd23cd2408835dc4b24bd1d1f1e114f24c3/absl-py-0.4.1.tar.gz (88kB)
     100% |████████████████████████████████| 92kB 1.4MB/s
 Collecting setuptools<=39.1.0 (from tensorflow)
-  Downloading https://files.pythonhosted.org/packages/8c/10/79282747f9169f21c053c562a0baa21815a8c7879be97abd930dbcf862e8/setuptools-39.1.0-py2.py3-none-any.whl
-(566kB)
+  Downloading https://files.pythonhosted.org/packages/8c/10/79282747f9169f21c053c562a0baa21815a8c7879be97abd930dbcf862e8/setuptools-39.1.0-py2.py3-none-any.whl (566kB)
     100% |████████████████████████████████| 573kB 3.4MB/s
 Collecting protobuf>=3.6.0 (from tensorflow)
-  Downloading https://files.pythonhosted.org/packages/e8/df/d606d07cff0fc8d22abcc54006c0247002d11a7f2d218eb008d48e76851d/protobuf-3.6.1-cp36-cp36m-win_amd64.whl
- (1.1MB)
+  Downloading https://files.pythonhosted.org/packages/e8/df/d606d07cff0fc8d22abcc54006c0247002d11a7f2d218eb008d48e76851d/protobuf-3.6.1-cp36-cp36m-win_amd64.whl (1.1MB)
     100% |████████████████████████████████| 1.1MB 4.9MB/s
 Collecting grpcio>=1.8.6 (from tensorflow)
-  Downloading https://files.pythonhosted.org/packages/65/da/03e722b7981ab3222f292f735a3c157b1d1bca120c479d7e273273828170/grpcio-1.14.2-cp36-cp36m-win_amd64.whl
-(1.5MB)
+  Downloading https://files.pythonhosted.org/packages/65/da/03e722b7981ab3222f292f735a3c157b1d1bca120c479d7e273273828170/grpcio-1.14.2-cp36-cp36m-win_amd64.whl (1.5MB)
     100% |████████████████████████████████| 1.5MB 5.4MB/s
 Requirement already satisfied: wheel>=0.26 in c:\programdata\anaconda3\envs\tutorial\lib\site-packages (from tensorflow) (0.31.1)
 Requirement already satisfied: six>=1.10.0 in c:\programdata\anaconda3\envs\tutorial\lib\site-packages (from tensorflow) (1.11.0)
@@ -326,12 +322,10 @@ Collecting astor>=0.6.0 (from tensorflow)
 Collecting termcolor>=1.1.0 (from tensorflow)
   Downloading https://files.pythonhosted.org/packages/8a/48/a76be51647d0eb9f10e2a4511bf3ffb8cc1e6b14e9e4fab46173aa79f981/termcolor-1.1.0.tar.gz
 Collecting werkzeug>=0.11.10 (from tensorboard<1.11.0,>=1.10.0->tensorflow)
-  Downloading https://files.pythonhosted.org/packages/20/c4/12e3e56473e52375aa29c4764e70d1b8f3efa6682bef8d0aae04fe335243/Werkzeug-0.14.1-py2.py3-none-any.whl (3
-22kB)
+  Downloading https://files.pythonhosted.org/packages/20/c4/12e3e56473e52375aa29c4764e70d1b8f3efa6682bef8d0aae04fe335243/Werkzeug-0.14.1-py2.py3-none-any.whl (322kB)
     100% |████████████████████████████████| 327kB 403kB/s
 Collecting markdown>=2.6.8 (from tensorboard<1.11.0,>=1.10.0->tensorflow)
-  Downloading https://files.pythonhosted.org/packages/6d/7d/488b90f470b96531a3f5788cf12a93332f543dbab13c423a5e7ce96a0493/Markdown-2.6.11-py2.py3-none-any.whl (7
-8kB)
+  Downloading https://files.pythonhosted.org/packages/6d/7d/488b90f470b96531a3f5788cf12a93332f543dbab13c423a5e7ce96a0493/Markdown-2.6.11-py2.py3-none-any.whl (78kB)
     100% |████████████████████████████████| 81kB 1.1MB/s
 Building wheels for collected packages: gast, absl-py, termcolor
   Running setup.py bdist_wheel for gast ... done
