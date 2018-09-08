@@ -403,5 +403,5 @@ Using TensorFlow backend.
 ~~~
 - 연구환경을 종료합니다.
 ~~~
-(tutorial) C:\Windows\system32>deactivate
+(tutorial) D:\AI>python>deactivate
 ~~~
