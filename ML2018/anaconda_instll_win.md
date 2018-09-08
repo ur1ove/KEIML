@@ -1,16 +1,15 @@
 ### 연구환경 만들기
 - Anaconda Prompt를 관리자 권한으로 실행합니다.  
+- 이전 설치한 환경이 있는지 확인합니다.  
 ~~~
 (base) C:\Windows\system32>conda-env list
 # conda environments:
 #
 base                  *  C:\ProgramData\Anaconda3
-
-
+~~~
+- (선택) 코드를 저장할 위치로 이동합니다.(드라이브 변경, 파일목록 확인, 디렉터리 생성 등)
+~~~
 (base) C:\Windows\system32>d:
-
-(base) D:\>conda create -n tutorial python=3.6 numpy scipy matplotlib spyder pan
-das seaborn scikit-learn h5py
 
 (base) D:\>dir
  D 드라이브의 볼륨: HP_RECOVERY
@@ -42,15 +41,10 @@ das seaborn scikit-learn h5py
 2018-09-08  오전 10:57    <DIR>          ..
                0개 파일                   0 바이트
                2개 디렉터리   1,992,871,936 바이트 남음
-
+~~~
+- 연구환경을 만듭니다.  
+~~~
 (base) D:\AI>conda create -n tutorial python=3.6 numpy scipy matplotlib spyder pandas seaborn scikit-learn h5py
-~~~
-~~~
-(base) C:\Windows\system32>conda create -n tutorial python=3.6 numpy scipy matplotlib spyder pandas seaborn scikit-learn h5py
-~~~
-~~~
-(base) D:\AI>conda create -n tutorial python=3.6 numpy scipy matplotlib spyder p
-andas seaborn scikit-learn h5py
 Solving environment: done
 
 
@@ -289,7 +283,7 @@ done
 #     $ conda deactivate
 
 
-(base) C:\Windows\system32>conda activate tutorial
+(base) D:\AI>conda activate tutorial
 
 (tutorial) (tutorial) D:\AI>pip install tensorflow
 Collecting tensorflow
@@ -368,35 +362,24 @@ Use quit() or Ctrl-Z plus Return to exit
 
 (tutorial) C:\Windows\system32>
 ~~~
+- keras 라이브러리를 설치합니다.
 ~~~
-(tutorial) C:\Windows\system32>pip install keras
+(tutorial) (tutorial) D:\AI>pip install keras
 Collecting keras
-  Downloading https://files.pythonhosted.org/packages/34/7d/b1dedde8af99bd82f20e
-d7e9697aac0597de3049b1f786aa2aac3b9bd4da/Keras-2.2.2-py2.py3-none-any.whl (299kB
-)
+  Downloading https://files.pythonhosted.org/packages/34/7d/b1dedde8af99bd82f20ed7e9697aac0597de3049b1f786aa2aac3b9bd4da/Keras-2.2.2-py2.py3-none-any.whl (299kB)
     100% |████████████████████████████████| 307kB 839kB/s
-Requirement already satisfied: six>=1.9.0 in c:\programdata\anaconda3\envs\tutor
-ial\lib\site-packages (from keras) (1.11.0)
-Requirement already satisfied: h5py in c:\programdata\anaconda3\envs\tutorial\li
-b\site-packages (from keras) (2.8.0)
+Requirement already satisfied: six>=1.9.0 in c:\programdata\anaconda3\envs\tutorial\lib\site-packages (from keras) (1.11.0)
+Requirement already satisfied: h5py in c:\programdata\anaconda3\envs\tutorial\lib\site-packages (from keras) (2.8.0)
 Collecting keras-applications==1.0.4 (from keras)
-  Downloading https://files.pythonhosted.org/packages/54/90/8f327deaa37a71caddb5
-9b7b4aaa9d4b3e90c0e76f8c2d1572005278ddc5/Keras_Applications-1.0.4-py2.py3-none-a
-ny.whl (43kB)
+  Downloading https://files.pythonhosted.org/packages/54/90/8f327deaa37a71caddb59b7b4aaa9d4b3e90c0e76f8c2d1572005278ddc5/Keras_Applications-1.0.4-py2.py3-none-any.whl (43kB)
     100% |████████████████████████████████| 51kB 1.2MB/s
 Collecting pyyaml (from keras)
-  Downloading https://files.pythonhosted.org/packages/4f/ca/5fad249c5032270540c2
-4d2189b0ddf1396aac49b0bdc548162edcf14131/PyYAML-3.13-cp36-cp36m-win_amd64.whl (2
-06kB)
+  Downloading https://files.pythonhosted.org/packages/4f/ca/5fad249c5032270540c24d2189b0ddf1396aac49b0bdc548162edcf14131/PyYAML-3.13-cp36-cp36m-win_amd64.whl (206kB)
     100% |████████████████████████████████| 215kB 975kB/s
 Collecting keras-preprocessing==1.0.2 (from keras)
-  Downloading https://files.pythonhosted.org/packages/71/26/1e778ebd737032749824
-d5cba7dbd3b0cf9234b87ab5ec79f5f0403ca7e9/Keras_Preprocessing-1.0.2-py2.py3-none-
-any.whl
-Requirement already satisfied: numpy>=1.9.1 in c:\programdata\anaconda3\envs\tut
-orial\lib\site-packages (from keras) (1.14.5)
-Requirement already satisfied: scipy>=0.14 in c:\programdata\anaconda3\envs\tuto
-rial\lib\site-packages (from keras) (1.1.0)
+  Downloading https://files.pythonhosted.org/packages/71/26/1e778ebd737032749824d5cba7dbd3b0cf9234b87ab5ec79f5f0403ca7e9/Keras_Preprocessing-1.0.2-py2.py3-none-any.whl
+Requirement already satisfied: numpy>=1.9.1 in c:\programdata\anaconda3\envs\tutorial\lib\site-packages (from keras) (1.14.5)
+Requirement already satisfied: scipy>=0.14 in c:\programdata\anaconda3\envs\tutorial\lib\site-packages (from keras) (1.1.0)
 mkl-random 1.0.1 requires cython, which is not installed.
 mkl-fft 1.0.4 requires cython, which is not installed.
 Installing collected packages: keras-applications, pyyaml, keras-preprocessing,
