@@ -1,3 +1,8 @@
+- 연구환경 만들기 : Anaconda Prompt를 관리자 권한으로 실행합니다.  
+  
+~~~
+(base) C:\Windows\system32>conda create -n tutorial python=3.6 numpy scipy matplotlib spyder pandas seaborn scikit-learn h5py
+~~~
 ~~~
     zlib:                     1.2.11-h8395fce_2
 
@@ -226,4 +231,162 @@ Using TensorFlow backend.
 >>> quit()
 
 (tutorial) C:\Windows\system32>
+~~~
+
+~~~
+(tutorial) C:\Windows\system32>deactivate
+
+(base) C:\Windows\system32>conda create -n tutorial py
+
+(base) C:\Windows\system32>conda create -n tutorial python=3.6 numpy scipy matpl
+otlib spyder pandas seaborn scikit-learn h5py
+
+(base) C:\Windows\system32>conda-env list
+# conda environments:
+#
+base                  *  C:\ProgramData\Anaconda3
+tutorial                 C:\ProgramData\Anaconda3\envs\tutorial
+
+
+(base) C:\Windows\system32>conda-env delete tutorial
+usage: conda-env [-h] {attach,create,export,list,remove,upload,update} ...
+conda-env: error: invalid choice: 'delete' (choose from 'attach', 'create', 'exp
+ort', 'list', 'remove', 'upload', 'update')
+
+(base) C:\Windows\system32>conda-env remove tutorial
+usage: conda-env [-h] {attach,create,export,list,remove,upload,update} ...
+conda-env: error: unrecognized arguments: tutorial
+
+(base) C:\Windows\system32>conda-env remove -n tutorial
+
+Remove all packages in environment C:\ProgramData\Anaconda3\envs\tutorial:
+
+
+## Package Plan ##
+
+  environment location: C:\ProgramData\Anaconda3\envs\tutorial
+
+
+The following packages will be REMOVED:
+
+    alabaster:                0.7.11-py36_0
+    asn1crypto:               0.24.0-py36_0
+    astroid:                  2.0.4-py36_0
+    babel:                    2.6.0-py36_0
+    backcall:                 0.1.0-py36_0
+    blas:                     1.0-mkl
+    bleach:                   2.1.4-py36_0
+    ca-certificates:          2018.03.07-0
+    certifi:                  2018.8.24-py36_1
+    cffi:                     1.11.5-py36h74b6da3_1
+    chardet:                  3.0.4-py36_1
+    cloudpickle:              0.5.5-py36_0
+    colorama:                 0.3.9-py36h029ae33_0
+    cryptography:             2.3.1-py36h74b6da3_0
+    cycler:                   0.10.0-py36h009560c_0
+    decorator:                4.3.0-py36_0
+    docutils:                 0.14-py36h6012d8f_0
+    entrypoints:              0.2.3-py36_2
+    freetype:                 2.9.1-ha9979f8_1
+    h5py:                     2.8.0-py36h3bdd7fb_2
+    hdf5:                     1.10.2-hac2f561_1
+    html5lib:                 1.0.1-py36_0
+    icc_rt:                   2017.0.4-h97af966_0
+    icu:                      58.2-ha66f8fd_1
+    idna:                     2.7-py36_0
+    imagesize:                1.1.0-py36_0
+    intel-openmp:             2018.0.3-0
+    ipykernel:                4.9.0-py36_0
+    ipython:                  6.5.0-py36_0
+    ipython_genutils:         0.2.0-py36h3c5d0ee_0
+    isort:                    4.3.4-py36_0
+    jedi:                     0.12.1-py36_0
+    jinja2:                   2.10-py36_0
+    jpeg:                     9b-hb83a4c4_2
+    jsonschema:               2.6.0-py36h7636477_0
+    jupyter_client:           5.2.3-py36_0
+    jupyter_core:             4.4.0-py36_0
+    keyring:                  13.2.1-py36_0
+    kiwisolver:               1.0.1-py36h6538335_0
+    lazy-object-proxy:        1.3.1-py36hfa6e2cd_2
+    libpng:                   1.6.34-h79bbb47_0
+    libsodium:                1.0.16-h9d3ae62_0
+    markupsafe:               1.0-py36hfa6e2cd_1
+    matplotlib:               2.2.3-py36hd159220_0
+    mccabe:                   0.6.1-py36_1
+    mistune:                  0.8.3-py36hfa6e2cd_1
+    mkl:                      2018.0.3-1
+    mkl_fft:                  1.0.4-py36h1e22a9b_1
+    mkl_random:               1.0.1-py36h77b88f5_1
+    nbconvert:                5.3.1-py36_0
+    nbformat:                 4.4.0-py36h3a5bc1b_0
+    numpy:                    1.15.1-py36ha559c80_0
+    numpy-base:               1.15.1-py36h8128ebf_0
+    numpydoc:                 0.8.0-py36_0
+    openssl:                  1.0.2p-hfa6e2cd_0
+    packaging:                17.1-py36_0
+    pandas:                   0.23.4-py36h830ac7b_0
+    pandoc:                   2.2.3.2-0
+    pandocfilters:            1.4.2-py36_1
+    parso:                    0.3.1-py36_0
+    patsy:                    0.5.0-py36_0
+    pickleshare:              0.7.4-py36h9de030f_0
+    pip:                      10.0.1-py36_0
+    prompt_toolkit:           1.0.15-py36h60b8f86_0
+    psutil:                   5.4.7-py36hfa6e2cd_0
+    pycodestyle:              2.4.0-py36_0
+    pycparser:                2.18-py36_1
+    pyflakes:                 2.0.0-py36_0
+    pygments:                 2.2.0-py36hb010967_0
+    pylint:                   2.1.1-py36_0
+    pyopenssl:                18.0.0-py36_0
+    pyparsing:                2.2.0-py36_1
+    pyqt:                     5.9.2-py36ha878b3d_0
+    pysocks:                  1.6.8-py36_0
+    python:                   3.6.6-hea74fb7_0
+    python-dateutil:          2.7.3-py36_0
+    pytz:                     2018.5-py36_0
+    pywin32:                  223-py36hfa6e2cd_1
+    pyzmq:                    17.1.2-py36hfa6e2cd_0
+    qt:                       5.9.6-vc14h62aca36_0
+    qtawesome:                0.4.4-py36h5aa48f6_0
+    qtconsole:                4.4.1-py36_0
+    qtpy:                     1.5.0-py36_0
+    requests:                 2.19.1-py36_0
+    rope:                     0.11.0-py36_0
+    scikit-learn:             0.19.1-py36hae9bb9f_0
+    scipy:                    1.1.0-py36h4f6bf74_1
+    seaborn:                  0.9.0-py36_0
+    setuptools:               40.2.0-py36_0
+    simplegeneric:            0.8.1-py36_2
+    sip:                      4.19.12-py36h6538335_0
+    six:                      1.11.0-py36_1
+    snowballstemmer:          1.2.1-py36h763602f_0
+    sphinx:                   1.7.8-py36_0
+    sphinxcontrib:            1.0-py36_1
+    sphinxcontrib-websupport: 1.1.0-py36_1
+    spyder:                   3.3.1-py36_1
+    spyder-kernels:           0.2.6-py36_0
+    sqlite:                   3.24.0-h7602738_0
+    statsmodels:              0.9.0-py36h452e1ab_0
+    testpath:                 0.3.1-py36h2698cfe_0
+    tornado:                  5.1-py36hfa6e2cd_0
+    traitlets:                4.3.2-py36h096827d_0
+    typed-ast:                1.1.0-py36hfa6e2cd_0
+    urllib3:                  1.23-py36_0
+    vc:                       14-h0510ff6_3
+    vs2015_runtime:           14.0.25123-3
+    wcwidth:                  0.1.7-py36h3d5aa90_0
+    webencodings:             0.5.1-py36_1
+    wheel:                    0.31.1-py36_0
+    win_inet_pton:            1.0.1-py36_1
+    wincertstore:             0.2-py36h7fe50ca_0
+    wrapt:                    1.10.11-py36hfa6e2cd_2
+    zeromq:                   4.2.5-he025d50_1
+    zlib:                     1.2.11-h8395fce_2
+
+Proceed ([y]/n)? y
+
+
+(base) C:\Windows\system32>
 ~~~
