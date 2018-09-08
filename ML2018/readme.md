@@ -47,3 +47,6 @@
 + (아래 과정은 더 알아두면 좋은 과정들입니다.)
 - [데이터베이스 프로그래밍 초급 / 2018.09.10-11 / 한국소프트웨어진흥협회_가산](http://edu2.kosta.or.kr/enroll?courseId=215&year=2018&orderNumber=3)
 - [Java 프로그래밍 기초 / 2018.09.27-28 / 한국소프트웨어진흥협회_판교](http://edu2.kosta.or.kr/enroll?courseId=220&year=2018&orderNumber=7)
+
+### 페이버
+- [AAAI](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=75888)
