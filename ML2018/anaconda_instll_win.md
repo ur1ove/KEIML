@@ -177,3 +177,53 @@ Use quit() or Ctrl-Z plus Return to exit
 
 (tutorial) C:\Windows\system32>
 ~~~
+~~~
+(tutorial) C:\Windows\system32>pip install keras
+Collecting keras
+  Downloading https://files.pythonhosted.org/packages/34/7d/b1dedde8af99bd82f20e
+d7e9697aac0597de3049b1f786aa2aac3b9bd4da/Keras-2.2.2-py2.py3-none-any.whl (299kB
+)
+    100% |████████████████████████████████| 307kB 839kB/s
+Requirement already satisfied: six>=1.9.0 in c:\programdata\anaconda3\envs\tutor
+ial\lib\site-packages (from keras) (1.11.0)
+Requirement already satisfied: h5py in c:\programdata\anaconda3\envs\tutorial\li
+b\site-packages (from keras) (2.8.0)
+Collecting keras-applications==1.0.4 (from keras)
+  Downloading https://files.pythonhosted.org/packages/54/90/8f327deaa37a71caddb5
+9b7b4aaa9d4b3e90c0e76f8c2d1572005278ddc5/Keras_Applications-1.0.4-py2.py3-none-a
+ny.whl (43kB)
+    100% |████████████████████████████████| 51kB 1.2MB/s
+Collecting pyyaml (from keras)
+  Downloading https://files.pythonhosted.org/packages/4f/ca/5fad249c5032270540c2
+4d2189b0ddf1396aac49b0bdc548162edcf14131/PyYAML-3.13-cp36-cp36m-win_amd64.whl (2
+06kB)
+    100% |████████████████████████████████| 215kB 975kB/s
+Collecting keras-preprocessing==1.0.2 (from keras)
+  Downloading https://files.pythonhosted.org/packages/71/26/1e778ebd737032749824
+d5cba7dbd3b0cf9234b87ab5ec79f5f0403ca7e9/Keras_Preprocessing-1.0.2-py2.py3-none-
+any.whl
+Requirement already satisfied: numpy>=1.9.1 in c:\programdata\anaconda3\envs\tut
+orial\lib\site-packages (from keras) (1.14.5)
+Requirement already satisfied: scipy>=0.14 in c:\programdata\anaconda3\envs\tuto
+rial\lib\site-packages (from keras) (1.1.0)
+mkl-random 1.0.1 requires cython, which is not installed.
+mkl-fft 1.0.4 requires cython, which is not installed.
+Installing collected packages: keras-applications, pyyaml, keras-preprocessing,
+keras
+Successfully installed keras-2.2.2 keras-applications-1.0.4 keras-preprocessing-
+1.0.2 pyyaml-3.13
+You are using pip version 10.0.1, however version 18.0 is available.
+You should consider upgrading via the 'python -m pip install --upgrade pip' comm
+and.
+
+(tutorial) C:\Windows\system32>
+(tutorial) C:\Windows\system32>python
+Python 3.6.6 |Anaconda, Inc.| (default, Jun 28 2018, 11:27:44) [MSC v.1900 64 bi
+t (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import keras
+Using TensorFlow backend.
+>>> quit()
+
+(tutorial) C:\Windows\system32>
+~~~
