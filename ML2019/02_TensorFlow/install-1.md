@@ -117,3 +117,41 @@ Solving environment: done
 
 (kerasGPU) D:\Data\kerasGPU\download>
 ~~~
+~~~
+(kerasGPU) D:\Data\kerasGPU\download>conda install -c anaconda cudnn
+Solving environment: done
+
+## Package Plan ##
+
+  environment location: C:\ProgramData\Anaconda3\envs\kerasGPU
+
+  added / updated specs:
+    - cudnn
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    cudnn-7.1.4                |        cuda9.0_0       192.3 MB  anaconda
+
+The following packages will be UPDATED:
+
+    cudnn: 7.1.4-cuda9.0_0 <unknown> --> 7.1.4-cuda9.0_0 anaconda
+
+Proceed ([y]/n)? n
+
+
+CondaSystemExit: Exiting.
+
+
+(kerasGPU) D:\Data\kerasGPU\download>set "JAVA_HOME=C:\Program Files\Java\jdk1.8.0_112"
+
+(kerasGPU) D:\Data\kerasGPU\download>set "JAVA_HOME_CONDA_BACKUP=C:\Program Files\Java\jdk1.8.0_112"
+
+
+(kerasGPU) D:\Data\kerasGPU\download>set "JAVA_HOME=C:\ProgramData\Anaconda3\envs\kerasGPU\Library"
+
+
+(kerasGPU) D:\Data\kerasGPU\download>
+~~~
