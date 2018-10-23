@@ -1,0 +1,5 @@
+- [TensorFlow Performance Guide](https://www.tensorflow.org/performance/performance_guide)
+- [How to compile tensorflow using SSE4.1, SSE4.2, and AVX](https://github.com/tensorflow/tensorflow/issues/8037)
+- [Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2](https://stackoverflow.com/questions/47068709/your-cpu-supports-instructions-that-this-tensorflow-binary-was-not-compiled-to-u)
+
+- [인텔® 코어™ i7-980X 프로세서 익스트림 에디션](https://ark.intel.com/ko/products/47932/Intel-Core-i7-980X-Processor-Extreme-Edition-12M-Cache-3-33-GHz-6-40-GT-s-Intel-QPI-)
