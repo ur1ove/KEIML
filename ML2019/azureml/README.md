@@ -1,0 +1,1 @@
+- [Azure Everywhere ~ The 1st Wave 행사자료](http://microsoftazuresummit.com/)
