@@ -38,3 +38,20 @@ nginx-test
 REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
 nginx               latest              42b4762643dc        6 days ago          109MB
 ~~~
+- 도커 이미지 다운로드  
+~~~
+(base) E:\Data\블록체인\뷰티풀체인\dockerHandsOn>docker pull ubuntu
+Using default tag: latest
+latest: Pulling from library/ubuntu
+38e2e6cd5626: Pull complete
+705054bc3f5b: Pull complete
+c7051e069564: Pull complete
+7308e914506c: Pull complete
+Digest: sha256:945039273a7b927869a07b375dc3148de16865de44dec8398672977e050a072e
+Status: Downloaded newer image for ubuntu:latest
+
+(base) E:\Data\블록체인\뷰티풀체인\dockerHandsOn>docker images
+REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
+nginx               latest              42b4762643dc        6 days ago          109MB
+ubuntu              latest              20bb25d32758        6 days ago          87.5MB
+~~~
