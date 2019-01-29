@@ -139,4 +139,7 @@ Deleted: sha256:af0b15c8625bb1938f1d7b17081031f649fd14e6b233688eea3c5483994a66a3
 
 (base) E:\Data\블록체인\뷰티풀체인\dockerHandsOn>docker image ls
 REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
+
+(base) E:\Data\블록체인\뷰티풀체인\dockerHandsOn>docker images
+REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
 ~~~
