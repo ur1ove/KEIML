@@ -26,4 +26,15 @@ a5d1d2faaa63        nginx               "nginx -g 'daemon of…"   12 minutes ag
 (2) 웹브라우저에 [URL](http://localhost:8088) 을 확인한다.  
 ![웹서버_확인.png](./imgs/웹서버_확인.png)  
   
-- 
+- 컨테이너 종료 / 삭제  
+~~~
+(base) E:\Data\블록체인\뷰티풀체인\dockerHandsOn>docker stop nginx-test
+nginx-test
+
+(base) E:\Data\블록체인\뷰티풀체인\dockerHandsOn>docker rm nginx-test
+nginx-test
+
+(base) E:\Data\블록체인\뷰티풀체인\dockerHandsOn>docker images
+REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
+nginx               latest              42b4762643dc        6 days ago          109MB
+~~~
