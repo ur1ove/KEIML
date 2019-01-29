@@ -97,3 +97,23 @@ Share images, automate workflows, and more with a free Docker ID:
 For more examples and ideas, visit:
  https://docs.docker.com/get-started/
 ~~~
+- 도커 이미지, 컨테이너 확인
+~~~
+(base) E:\Data\블록체인\뷰티풀체인\dockerHandsOn>docker image ls
+REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
+hello-world         latest              fce289e99eb9        4 weeks ago         1.84kB
+
+(base) E:\Data\블록체인\뷰티풀체인\dockerHandsOn>docker ps
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+
+(base) E:\Data\블록체인\뷰티풀체인\dockerHandsOn>docker container ls
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+
+(base) E:\Data\블록체인\뷰티풀체인\dockerHandsOn>docker ps -a
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS                     PORTS               NAMES
+9927d5ed383b        hello-world         "/hello"            2 minutes ago       Exited (0) 2 minutes ago                       boring_austin
+
+(base) E:\Data\블록체인\뷰티풀체인\dockerHandsOn>docker container ls -all
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS                     PORTS               NAMES
+9927d5ed383b        hello-world         "/hello"            2 minutes ago       Exited (0) 2 minutes ago                       boring_austin
+~~~
