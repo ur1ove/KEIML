@@ -117,3 +117,26 @@ CONTAINER ID        IMAGE               COMMAND             CREATED             
 CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS                     PORTS               NAMES
 9927d5ed383b        hello-world         "/hello"            2 minutes ago       Exited (0) 2 minutes ago                       boring_austin
 ~~~
+- 도커 컨테이너 삭제
+~~~
+(base) E:\Data\블록체인\뷰티풀체인\dockerHandsOn>docker rm 9927d5ed383b
+9927d5ed383b
+
+(base) E:\Data\블록체인\뷰티풀체인\dockerHandsOn>docker container ls -all
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+~~~
+- 도커 이미지 삭제
+~~~
+(base) E:\Data\블록체인\뷰티풀체인\dockerHandsOn>docker image ls
+REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
+hello-world         latest              fce289e99eb9        4 weeks ago         1.84kB
+
+(base) E:\Data\블록체인\뷰티풀체인\dockerHandsOn>docker rmi fce289e99eb9
+Untagged: hello-world:latest
+Untagged: hello-world@sha256:2557e3c07ed1e38f26e389462d03ed943586f744621577a99efb77324b0fe535
+Deleted: sha256:fce289e99eb9bca977dae136fbe2a82b6b7d4c372474c9235adc1741675f587e
+Deleted: sha256:af0b15c8625bb1938f1d7b17081031f649fd14e6b233688eea3c5483994a66a3
+
+(base) E:\Data\블록체인\뷰티풀체인\dockerHandsOn>docker image ls
+REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
+~~~
