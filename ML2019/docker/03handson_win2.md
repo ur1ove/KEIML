@@ -20,7 +20,7 @@ CONTAINER ID        IMAGE               COMMAND                  CREATED        
 a5d1d2faaa63        nginx               "nginx -g 'daemon of…"   12 minutes ago      Up 12 minutes       0.0.0.0:8088->80/tcp   nginx-test
 ~~~  
   보안 경고 창이 나오면 엑세스 허용을 클릭하자.  
-![엑세스 허용.png](./imgs/엑세스 허용.png)  
+![엑세스_허용.png](./imgs/엑세스_허용.png)  
   웹브라우저에 URL(http://localhost:8088)을 확인한다.  
-![웹서버 확인.png](./imgs/웹서버 확인.png)  
+![웹서버_확인.png](./imgs/웹서버_확인.png)  
 - 
