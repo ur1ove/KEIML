@@ -22,7 +22,7 @@ a5d1d2faaa63        nginx               "nginx -g 'daemon of…"   12 minutes ag
 ~~~  
   
   (1) 이 때, 보안 경고 창이 나오면 엑세스 허용을 클릭하자.  
-![엑세스_허용.png](./imgs/엑세스_허용.png)  
-- (2) 웹브라우저에 URL[http://localhost:8088](http://localhost:8088) 을 확인한다.  
-![웹서버_확인.png](./imgs/웹서버_확인.png)  
+  ![엑세스_허용.png](./imgs/엑세스_허용.png)  
+  (2) 웹브라우저에 [URL](http://localhost:8088) 을 확인한다.  
+  ![웹서버_확인.png](./imgs/웹서버_확인.png)  
 - 
