@@ -1,0 +1,2 @@
+- [인터넷식품신문(2016.6.9), "농산물 생산량 예측에 기상 빅데이터 활용한다", 검색일: 2019.2.8](http://www.foodnews.co.kr/news/articleView.html?idxno=59299)  
+- [, "농산물 생산량 예측에 기상 거대자료(빅데이터) 활용", 검색일: 2019.2.8](http://web.kma.go.kr/notify/press/kma_list.jsp?mode=view&bid=press&num=1193205)
