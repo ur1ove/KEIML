@@ -10,7 +10,8 @@
 - [캐글](https://www.kaggle.com/) 가입(10분) + 설명(10분) + 실습(1시간+@) : [House Price Prediction EDA](https://www.kaggle.com/chocozzz/house-price-prediction-eda-updated-2019-03-12)  
 - 논문 리뷰(30분) : [Learning to Make Analogies by Contrasting Abstract Relational Structure](https://openreview.net/forum?id=SylLYsCcFm&fbclid=IwAR2ZuOupcgQvFOZHmhYFFLH17FFb2bYPZdumYBTmvLkWtWjv4NbnkwgNqLE), [ICLR 2019 리뷰](https://hoya012.github.io/blog/ICLR-image-recognition-paper-guide/)    
 ### 참고자료
-- [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/?fbclid=IwAR1xF_LJVUW1JW2HEfpXLm3tC2NPkKZba3mCGi8DtAygO6tREw-TJqwN_98)   - [모두를 위한 딥러닝 시즌2](https://www.youtube.com/playlist?list=PLQ28Nx3M4Jrguyuwg4xe9d9t2XE639e5C&fbclid=IwAR2gEytKg0CHIoS8yL_wXX0OmLXcDHc3VFVzkRuuqzoqJDY1WsVk5nUqNWw)   
+- [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/?fbclid=IwAR1xF_LJVUW1JW2HEfpXLm3tC2NPkKZba3mCGi8DtAygO6tREw-TJqwN_98)  
+- [모두를 위한 딥러닝 시즌2](https://www.youtube.com/playlist?list=PLQ28Nx3M4Jrguyuwg4xe9d9t2XE639e5C&fbclid=IwAR2gEytKg0CHIoS8yL_wXX0OmLXcDHc3VFVzkRuuqzoqJDY1WsVk5nUqNWw)   
 
 ### 이전 작성분
 - 2019년은 빅데이터 연구방법론 중 
