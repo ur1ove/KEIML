@@ -1,14 +1,18 @@
 ## 머신러닝 연구회(2019년)
-- 2019년 머신러닝 연구회(이하 "머연")는 "밑바닥부터 시작하는 딥러닝"으로 개념학습을 합니다.(30분 이내)  
+- 2019년 머신러닝 연구회(이하 "머연")는 "밑바닥부터 시작하는 딥러닝"으로 개념학습을 합니다.(30분 이내) : [코드](https://github.com/WegraLee/deep-learning-from-scratch)  
 - 캐글의 커널과 데이터를 통해 데이터 EDA와 모델링을 학습합니다.(1시간+@)  
 - 주요 학회 논문을 리뷰합니다.(30분 이내)  
 - 참석하시는 모든 분들은 노트북을 지참하셔야 합니다. 교재는 드립니다.  
   단, 커피 등 음료는 개인별로 준비하여 주시고 본 모임에 도네이션은 환영입니다. (__)  
 ### 첫번째 시간
 - 머연 소개(5분) + 교재 배포(5분) + 인터넷 연결(5분)
-- 교재 학습(20분) : 2장 퍼셉트론(게이트)
-- 
+- 교재 학습(20분) : 2장 퍼셉트론(게이트), [코드](https://github.com/WegraLee/deep-learning-from-scratch/tree/master/ch02)  
+- [캐글](https://www.kaggle.com/) 가입(10분) + 설명(10분) + 실습(1시간+@) : [House Price Prediction EDA](https://www.kaggle.com/chocozzz/house-price-prediction-eda-updated-2019-03-12)  
+- 논문 리뷰(30분) : [Learning to Make Analogies by Contrasting Abstract Relational Structure](https://openreview.net/forum?id=SylLYsCcFm&fbclid=IwAR2ZuOupcgQvFOZHmhYFFLH17FFb2bYPZdumYBTmvLkWtWjv4NbnkwgNqLE), [ICLR 2019 리뷰](https://hoya012.github.io/blog/ICLR-image-recognition-paper-guide/)    
+### 참고자료
+- [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/?fbclid=IwAR1xF_LJVUW1JW2HEfpXLm3tC2NPkKZba3mCGi8DtAygO6tREw-TJqwN_98)   - [모두를 위한 딥러닝 시즌2](https://www.youtube.com/playlist?list=PLQ28Nx3M4Jrguyuwg4xe9d9t2XE639e5C&fbclid=IwAR2gEytKg0CHIoS8yL_wXX0OmLXcDHc3VFVzkRuuqzoqJDY1WsVk5nUqNWw)   
 
+### 이전 작성분
 - 2019년은 빅데이터 연구방법론 중 
 - (데이터 수집-저장)은 ELKv4를 통해 진행합니다.  
 1) (웹 포털, 비정형 텍스트) 네이버 뉴스(https://news.naver.com/) : 환경<사회, 이 시각 주요뉴스(텍스트;포토)(2회차)  
