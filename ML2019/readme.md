@@ -4,7 +4,7 @@
 - 주요 관련 학회 논문을 리뷰합니다.(30분 이내)  
 - 참석하시는 모든 분들은 노트북을 지참하셔야 합니다. 교재는 드립니다.  
   단, 커피 등 음료 및 다과는 개인별로 준비하여 주시고 도네이션은 언제나 환영입니다. (__)  
-### 첫번째 시간
+### 첫번째 시간(5/13 오후 2시, 10층 소회의실)
 - 머연 소개(5분) + 교재 배포(5분) + 인터넷 연결(5분)
 - 교재 학습(20분) : 2장 퍼셉트론(게이트), [코드](https://github.com/WegraLee/deep-learning-from-scratch/tree/master/ch02)  
 - [캐글](https://www.kaggle.com/) 가입(10분) + 설명(10분) + 실습(1시간+@) : [House Price Prediction EDA](https://www.kaggle.com/chocozzz/house-price-prediction-eda-updated-2019-03-12)  
