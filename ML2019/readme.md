@@ -10,7 +10,7 @@
 - [캐글](https://www.kaggle.com/) 가입(10분) + 설명(10분) + 실습(1시간+@) : [House Price Prediction EDA](https://www.kaggle.com/chocozzz/house-price-prediction-eda-updated-2019-03-12)  
 - 논문 리뷰(30분) : [Learning to Make Analogies by Contrasting Abstract Relational Structure](https://openreview.net/forum?id=SylLYsCcFm&fbclid=IwAR2ZuOupcgQvFOZHmhYFFLH17FFb2bYPZdumYBTmvLkWtWjv4NbnkwgNqLE), [ICLR 2019 리뷰](https://hoya012.github.io/blog/ICLR-image-recognition-paper-guide/)    
 ### 행사
-- [AI EXPO KOREA](http://www.aiexpo.co.kr/)
+- [AI EXPO KOREA, 7.17~19](http://www.aiexpo.co.kr/)
 -
 
 ### 참고자료
